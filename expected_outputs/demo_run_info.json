@@ -1,0 +1,20 @@
+{
+  "purpose": "New verification demo, not the original manuscript environment",
+  "seed": 1729,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "timings_seconds": {
+    "Program1_seconds": 0.0048632159996486735,
+    "Program2_seconds": 0.004911349999929371,
+    "Program3_seconds": 6.288759604000006
+  },
+  "elapsed_seconds": 6.302789161999499,
+  "row_counts_excluding_header": {
+    "summary_stats.csv": 3,
+    "sumlineage_arrays.csv": 24
+  },
+  "candidate_files": 1,
+  "cellnumber_tables": 3
+}
